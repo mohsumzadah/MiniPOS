@@ -1,0 +1,2 @@
+# minipos
+MiniPOS project
