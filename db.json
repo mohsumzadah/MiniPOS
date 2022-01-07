@@ -1,8 +1,8 @@
 {
-   1: {
-      'id': 'sumeyra',
-      'password': '123456',
-      'is-key-used': False,
-      'key': 'udisaidubasdiwaabidisadis'
-    },
+  {
+    'id': 'sumeyra',
+    'password': '123456'
+    'is-activated': False,
+    'key': dasdkjsahdksa
+  }
 }
