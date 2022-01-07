@@ -3,8 +3,8 @@
         "1": {
             "id": "sumeyra",
             "password": "123456",
-            "is-activated": "False",
-            "key-code": "dasdaskbjkdnkasdas"
+            "isactivated": "False",
+            "keycode": "dasdaskbjkdnkasdas"
         }
     }
 }
