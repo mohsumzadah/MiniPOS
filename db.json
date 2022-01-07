@@ -1,6 +1,6 @@
 {
     "id": "sumeyra",
     "password": "123456",
-    "is-activated": "False",
+    "is-activated": false,
     "key": "dsadbjksadkja",
 }
